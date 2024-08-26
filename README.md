@@ -1,7 +1,5 @@
 ## Olá! eu sou a Bruna ferreira 👋
 
-![Bruna Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaferreir&show_icons=true&theme=tokyonight)
-
 ### Tecnologias que uso do meu dia 
 
 <div style="display: inline_block"><br/>
