@@ -1,8 +1,8 @@
 ## Olá eu sou a Bruna Ferreira!
 
-Sou, estudante de Análise e Desenvolvimento de Sistemas na IMPACTA TECNOLOGIA.
+### Sou, estudante de Análise e Desenvolvimento de Sistemas na IMPACTA TECNOLOGIA.
 
- Minha paixão por aprender novas habilidades me levou a escolher essa área. Estou animado para explorar novas oportunidades que me permitam contribuir e crescer na área.
+### Minha paixão por aprender novas habilidades me levou a escolher essa área. Estou animado para explorar novas oportunidades que me permitam contribuir e crescer na área.
 
 
 
