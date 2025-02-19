@@ -5,11 +5,7 @@
 ### Minha paixão por aprender novas habilidades me levou a escolher essa área. Estou animado para explorar novas oportunidades que me permitam contribuir e crescer na área.
 
 
-
-
-
-
-
+## Entre em contato comigo:
 <div> 
 
   <a href = "mailto:brunaferreira0320@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
