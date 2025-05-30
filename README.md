@@ -17,7 +17,7 @@ Sou desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas na IMPA
 ### Linguagens e Tecnologias
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,css,html,docker,git,postman,flask,sqlite,idea,kotlin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,css,html,docker,git,postman,flask,sqlite,kotlin&theme=light)](https://skillicons.dev)
 
 <p>
   
