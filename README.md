@@ -1,6 +1,6 @@
 ## Olá eu sou a Bruna 👋!
 
-Sou, desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas na IMPACTA TECNOLOGIA.
+Sou desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas na IMPACTA TECNOLOGIA.
 
 ## Entre em contato comigo:
 <div> 
