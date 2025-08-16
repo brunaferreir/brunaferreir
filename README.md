@@ -1,6 +1,9 @@
 ## Olá eu sou a Bruna 👋!
 
-Sou desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas na IMPACTA TECNOLOGIA.
+Desenvolvedora criadora e estudante de Análise e Desenvolvimento de Sistemas na IMPACTA TECNOLOGIA. Trabalho em vários projetos aleatórios no meu tempo livre.
+Confira meu  <a href = "https://brunaferreir.github.io/portfolio/">Portifólio</a>.
+
+
 
 ## Entre em contato comigo:
 <div> 
