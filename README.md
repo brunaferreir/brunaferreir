@@ -22,12 +22,6 @@ Confira meu  <a href = "https://brunaferreir.github.io/portfolio/">Portifólio</
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,css,html,docker,git,postman,flask,sqlite,kotlin&theme=light)](https://skillicons.dev)
 
-<p>
-  
-![brunaferreir's Stats](https://github-readme-stats.vercel.app/api?username=brunaferreir&theme=calm&show_icons=true&hide_border=true&count_private=true_height="193")
-![brunaferreir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaferreir&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
-
-</p>
 
 <br/>
